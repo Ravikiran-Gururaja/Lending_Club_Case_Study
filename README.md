@@ -1,7 +1,7 @@
 # Lending_Club_Case_Study
 
 <center><img src="img/Lending_Club_Case_study.jpg"> </center>
-<center> [Click to view Python code] [https://github.com/Ravikiran-Gururaja/Lending_Club_Case_Study/blob/master/Ravikiran's_Lending_Club_Case_Study.ipynb]   <b> / </b> [To view Presentation in PDF] [https://github.com/Ravikiran-Gururaja/Lending_Club_Case_Study/blob/master/Ravikiran's_Lending_Club_Case_Study_Presentation.pdf]</center>
+<center> [Click to view Python code] (https://github.com/Ravikiran-Gururaja/Lending_Club_Case_Study/blob/master/Ravikiran's_Lending_Club_Case_Study.ipynb)   <b> / </b> [To view Presentation in PDF] (https://github.com/Ravikiran-Gururaja/Lending_Club_Case_Study/blob/master/Ravikiran's_Lending_Club_Case_Study_Presentation.pdf)</center>
 Lending Club is a consumer finance company that specializes in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. The project work aims to help the company in understanding the driving factors (or driver variables)…
 # Lending-Club-Project---Data-Analysis-for-a-consumer-finance-company
 
