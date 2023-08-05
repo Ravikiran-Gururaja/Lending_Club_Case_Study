@@ -66,6 +66,6 @@ You can access the data dictionary which describes the meaning of these variable
 You need to submit one IPython notebook (.ipynb extension) which clearly explains the thought process behind your analysis (either in comments of markdown text), code and relevant plots. 
 
 ## Google-Colab or jupyter Notebook Viewer
-If you are unable to view or load the Google-Colab or jupyter IPython notebook via Github, please click on this [link][https://github.com/Ravikiran-Gururaja/Lending_Club_Case_Study/blob/master/Ravikiran's_Lending_Club_Case_Study.ipynb].
+If you are unable to view or load the Google-Colab or jupyter IPython notebook via Github, please click on this [link](https://github.com/Ravikiran-Gururaja/Lending_Club_Case_Study/blob/master/Ravikiran's_Lending_Club_Case_Study.ipynb).
 
 Thank you!
